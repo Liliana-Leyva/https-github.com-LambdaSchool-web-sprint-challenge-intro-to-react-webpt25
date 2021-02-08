@@ -37,6 +37,7 @@ function Character(props) {
         </div>
         </StyledDiv>
     )
+    //
 }
 
 export default Character;
