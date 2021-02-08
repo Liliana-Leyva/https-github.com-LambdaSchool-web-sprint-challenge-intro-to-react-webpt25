@@ -3,17 +3,6 @@ import React from 'react'
 import styled from 'styled-components'
 
 
-// const Character = (props) => {
-
-    
-//     return(
-//         <div>
-//             {props.characters.map(item => {
-//             return <h2 key={item.name}>{item.name} {item.gender}{item.birth_year}</h2>
-//             })}
-//         </div>
-//     ) 
-// }
 const StyledDiv = styled.div`
     display: flex;
     flex-direction: column;
